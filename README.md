@@ -8,7 +8,6 @@
    ================================================== -->
    <meta charset="utf-8">
 	<title>Gwen</title>
-    
 	<meta name="description" content="">  
 	<meta name="author" content="">
 
@@ -61,7 +60,7 @@
 				<li><a class="smoothscroll" href="#about" title="">About</a></li>
 				<li><a class="smoothscroll" href="#Skills" title="">Ability</a></li>
 				<li><a class="smoothscroll" href="#credentials" title="">My life</a></li>
-				<li><a class="smoothscroll" href="#portfolio" title="">photos</a></li>
+				<li><a class="smoothscroll" href="#portfolio" title="">Photos</a></li>
 							
 				<li><a class="smoothscroll" href="#contact" title="">Contact</a></li>						
 			</ul>	
@@ -221,7 +220,7 @@
    					</div>
    					<div class="service-item">
    						<h4>Speech</h4>
-   						<p>As the representative of our school district, I went to hangzhou to participate in the national PGA speech contest.It was a very precious experience, and it was the first time to speak in English in front of so many people, and I was nervous and excited at the same time.Gained a lot of speaking skills and new friends.
+   						<p>As the representative of our school district, I went to Hangzhou to participate in the national PGA speech contest.It was a very precious experience, and it was the first time to speak in English in front of so many people, and I was nervous and excited at the same time.Gained a lot of speaking skills and new friends.
    						</p>
    					</div>   					
    				</li>
@@ -230,8 +229,8 @@
    						<i class="icon-Checked"></i>
    					</div>
    					<div class="service-item">
-   						<h4>all-round student</h4>
-   						<p>All-round student prize give to the students who have good study, good sports and good moral character.It is my great honor to have been awarded such a title in the annual school evaluation for high school three years.I was very proud when the teacher read out my class and my name in front of the whole school.
+   						<h4>All-round student</h4>
+   						<p>All-round student prize gives to the students who have good study, good sports and good moral character.It is my great honor to have been awarded such a title in the annual school evaluation for high school three years.I was very proud when the teacher read out my class and my name in front of the whole school.
    						</p>
    					</div>   					
    				</li>
@@ -377,7 +376,7 @@
 	   					<h4>A Stubborn Girl</h4>	   					
 	   				</div>
 	   				<div class="timeline-content">	   					
-	   					<p>YOU ARE STUBBORN, this was my math teacher said, but he is not angry, on the contrary he is very happy,He said that He was glad that someone always liked to ask him why. And I'm not afraid of my teacher. Sometimes I have a long argument with Andy (my math teacher) about a problem..</p>
+	   					<p>YOU ARE STUBBORN, this was my math teacher said, but he is not angry, on the contrary he is very happy, he said that he was glad that someone always liked to ask him why. And I'm not afraid of my teacher. Sometimes I have a long argument with Andy (my math teacher) about a problem..</p>
 	   				</div>
 	   			</div> <!-- end timeline-block -->
 
@@ -391,7 +390,7 @@
 	   					<h4>Be a Astronomer</h4>	   				
 	   				</div>
 	   				<div class="timeline-desc">	   					
-	   					<p>In middle school, I was in the rebellious period, with the bad grades and classmates also look down on me. But in physical I did very well, because I dream is to become an astronomer at that time, my physical score not only exceeded grade 10 students, also won the chance to get in the physics competition.</p>
+	   					<p>In middle school, I was in the rebellious period, with the bad grades and classmates also look down on me. But in physical I did very well, because my dream is to become an astronomer at that time, my physical score not only exceeded grade 10 students, also won the chance to get in the physics competition.</p>
 	   				</div>
 	   			</div> <!-- end timeline-block -->
 
@@ -664,7 +663,7 @@
 
    			<p class="animate-this">
    				Mobile: (+86) 159 7966 9206<br>
-                Phone: (+86) 8208026<br>
+                Phone: (+86) 796-8208026<br>
 			   	
 			     	
 			   </p>
@@ -681,11 +680,7 @@
      	<div class="row">
 
      		<div class="col-twelve tab-full social">
-     			<ul class="footer-social">        
-			      <li><a href="#">Weibo</a></li>
-			    
-			      <li><a href="#">Instagram</a></li>
-			   </ul> 	      		
+     				      		
 	      </div>
 
       	<div class="col-twelve tab-full">
